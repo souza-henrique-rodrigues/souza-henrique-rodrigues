@@ -15,7 +15,9 @@
 ![Node.Js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)   
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souza-henrique-rodrigues&theme=react&show_icons=true&hide_border=true&layout=compact">
+</div>
 
 
 <div align="left">
